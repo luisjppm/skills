@@ -148,7 +148,7 @@ Use [references/system-build-playbook.md](references/system-build-playbook.md) f
 
 ### 5. Implement by Stack
 
-1. Respect user-selected stack. If unspecified, apply the defaults from [Default Recommendations](#default-recommendations).
+1. Respect user-selected stack. If unspecified, apply the defaults from the `Default Recommendations` section above.
 2. Keep implementation style-consistent with the design system.
 3. Use semantic HTML and accessible component APIs.
 4. Prefer composable primitives and reusable tokens over one-off classes.
