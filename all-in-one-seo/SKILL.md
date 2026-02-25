@@ -1,5 +1,5 @@
 ---
-name: master-seo
+name: all-in-one-seo
 description: >
   Unified end-to-end SEO system for technical audits, on-page optimization,
   programmatic SEO at scale, AI/AEO optimization (AEO, GEO, LLMO, AI
@@ -8,7 +8,7 @@ description: >
   canonicals, schema markup, AI citation visibility, or scalable SEO content.
 ---
 
-# Master SEO
+# All-in-One SEO
 
 Use this skill as the single SEO operating system. Keep the top-level workflow
 in this file and load detailed references only when needed.
